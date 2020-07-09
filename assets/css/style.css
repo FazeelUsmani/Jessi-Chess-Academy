@@ -1,0 +1,32 @@
+body {background-color: whitesmoke;}
+
+.footer-copyright{
+    background-color:#bfbfbf;
+    text-align: center;
+    border: 3px solid brown;
+}
+
+
+ul {
+list-style-type: none;
+margin: 0px;
+padding: 0px;
+overflow: auto;
+background-color: #333;
+}
+
+li {
+float: center;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+.active {
+background-color: #4CAF50;
+}
